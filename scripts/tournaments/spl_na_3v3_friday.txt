@@ -1,0 +1,158 @@
+19
+2017-01-06
+{{-start-}}
+'''Shift_Pro_League/Weekly/3v3/North_America/VOGANBOT_EDITION'''
+{{DISPLAYTITLE:SPL Weekly - Cup VOGANBOT_EDITION}}<br/>
+{{Infobox league
+|liquipediatier=Weekly
+|series=Shift Pro League Weekly Cups
+|name=SPL Weekly - Cup VOGANBOT_EDITION
+|shortname=Cup VOGANBOT_EDITION
+|tickername=SPL Weekly #VOGANBOT_EDITION
+|image=Shift Pro League.png
+|icon=Shift Pro League icon.png
+|organizer=Shift Pro League
+|sponsor=
+|mode=3v3
+|type=Online
+|country=North America
+|format=Single-Elimination Bracket
+|prizepoolusd=100
+|twitch=shiftproleague
+|date=VOGANBOT_DATE_TOURNAMENT
+|website=http://shiftpl.com/
+|bracket=
+|team_number=
+|previous=Shift_Pro_League/Weekly/3v3/North_America/VOGANBOT_EDITION_PREV{{!}}Cup VOGANBOT_EDITION_PREV
+|next=Shift_Pro_League/Weekly/3v3/North_America/VOGANBOT_EDITION_NEXT{{!}}Cup VOGANBOT_EDITION_NEXT
+}}
+
+==Prize Pool==
+{{prize pool start }}
+{{prize pool slot|place=1|usdprize=70|tbd |lastvs1=|lastscore1= |lastvsscore1= }}
+{{prize pool slot|place=2|usdprize=30|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
+{{prize pool slot|place=3-4|usdprize=0
+|tbd |lastvs1=|lastscore1= |lastvsscore1=
+|tbd |lastvs2=|lastscore2=|lastvsscore2=
+}}
+{{prize pool slot|place=5-8|usdprize=0
+|tbd |lastvs1=|lastscore1= |lastvsscore1=
+|tbd |lastvs2=|lastscore2= |lastvsscore2=
+|tbd |lastvs3=|lastscore3= |lastvsscore3=
+|tbd |lastvs4=|lastscore4=|lastvsscore4=
+}}
+{{Prize pool end}}
+
+==Participants==
+{{Team card columns start|cols=3}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|end}}
+{{Team card columns end}}
+
+==Results==
+{{8SETeamBracket
+<!-- QUARTERFINALS -->
+|R1D1team=|R1D1score=|R1D1win=
+|R1D2team=|R1D2score=|R1D2win=
+
+|R1D3team=|R1D3score=|R1D3win=
+|R1D4team=|R1D4score=|R1D4win=
+
+|R1D5team=|R1D5score=|R1D5win=
+|R1D6team=|R1D6score=|R1D6win=
+|R1G3details={{BracketMatchSummary
+|date=VOGANBOT_DATE_MATCH - 21:30 {{Abbr/EST}} |finished=true
+|stream=shiftproleague
+}}
+
+|R1D7team=|R1D7score=|R1D7win=
+|R1D8team=|R1D8score=|R1D8win=
+|R1G4details={{BracketMatchSummary
+|date=VOGANBOT_DATE_MATCH - 21:30 {{Abbr/EST}} |finished=true
+|stream=shiftproleague
+}}
+
+<!-- SEMIFINALS -->
+|R2W1team=|R2W1score=|R2W1win=
+|R2W2team=|R2W2score=|R2W2win=
+|R2G1details={{BracketMatchSummary
+|date=VOGANBOT_DATE_MATCH - 22:00 {{Abbr/EST}} |finished=true
+|stream=shiftproleague
+}}
+
+|R2W3team=|R2W3score=|R2W3win=
+|R2W4team=|R2W4score= |R2W4win=
+|R2G2details={{BracketMatchSummary
+|date=VOGANBOT_DATE_MATCH - 22:45 {{Abbr/EST}} |finished=true
+|stream=shiftproleague
+}}
+
+<!-- FINALS -->
+|R3W1team=|R3W1score=|R3W1win=
+|R3W2team=|R3W2score=|R3W2win=
+|R3G1details={{BracketMatchSummary
+|date=VOGANBOT_DATE_MATCH - 23:30 {{Abbr/EST}} |finished=true
+|stream=shiftproleague
+}}
+}}
+
+==References==
+{{Reflist}}
+<br/>
+{{Shift Pro League Navbox}}
+{{-stop-}}
