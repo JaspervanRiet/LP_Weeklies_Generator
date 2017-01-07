@@ -28,9 +28,10 @@ class TournamentCreator:
                 str(self.edition+ 1))
         contents = contents.replace("VOGANBOT_EDITION",
                 str(self.edition))
+        return contents
 
     def create_europe_gfinity_friday(self, contents):
-        self.create_tournament(contents)
+        contents = self.create_tournament(contents)
         currency_converter = CurrencyRates()
         gbp_exchange_rate = currency_converter.get_rate('GBP', 'USD')
 
@@ -44,7 +45,7 @@ class TournamentCreator:
         return contents
 
     def create_europe_gfinity_monday(self, contents):
-        self.create_tournament(contents)
+        contents = self.create_tournament(contents)
 
         currency_converter = CurrencyRates()
         gbp_exchange_rate = currency_converter.get_rate('GBP', 'USD')
@@ -59,15 +60,7 @@ class TournamentCreator:
         return contents
 
     def create_overwatch_go4(self, contents):
-        # self.create_tournament(contents)
-        contents = contents.replace("VOGANBOT_DATE_TOURNAMENT", self.date)
-        contents = contents.replace("VOGANBOT_DATE_MATCH", self.date_match)
-        contents = contents.replace("VOGANBOT_EDITION_PREV",
-                str(self.edition - 1))
-        contents = contents.replace("VOGANBOT_EDITION_NEXT",
-                str(self.edition+ 1))
-        contents = contents.replace("VOGANBOT_EDITION",
-                str(self.edition))
+        contents = self.create_tournament(contents)
 
         currency_converter = CurrencyRates()
         exchange_rate = currency_converter.get_rate('EUR', 'USD')
