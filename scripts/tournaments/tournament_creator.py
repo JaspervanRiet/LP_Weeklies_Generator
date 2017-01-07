@@ -72,4 +72,12 @@ class TournamentCreator:
 
         return contents
 
+    def create_na_nexus_saturday(self, contents):
+        contents = self.create_tournament(contents)
+        
+        contents = contents.replace("VOGANBOT_PRIZE_1", 150)
+        contents = contents.replace("VOGANBOT_TOTAL_PRIZE", 150)
+        return contents
+
+
 
