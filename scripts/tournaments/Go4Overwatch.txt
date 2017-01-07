@@ -1,0 +1,121 @@
+33
+2017-01-15
+{{-start-}}
+'''User:VoganBot/Go4Overwatch/Europe/Weekly/VOGANBOT_EDITION'''
+{{DISPLAYTITLE:Go4Overwatch Europe Cup #VOGANBOT_EDITION}}
+{{Go4Overwatch Navbox}}<br>
+{{Infobox league
+|name=Go4Overwatch Europe Cup #VOGANBOT_EDITION
+|image=ESL Overwatch Community Cup.png
+|series=Go4Overwatch EU
+|shortname=VOGANBOT_EDITION
+|organizer=ESL
+|server=Europe
+|format=Single Elimination
+|type=Online
+|country=
+|date=VOGANBOT_DATE_TOURNAMENT
+|prizepoolusd=VOGANBOT_TOTAL_PRIZE
+|localcurrency=eur
+|prizepool=150
+|web=http://play.eslgaming.com/overwatch/europe/
+|twitch=esl_overwatch
+|twitch2=
+|twitch3=
+|bracket=https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-VOGANBOT_EDITION/rankings/
+|liquipediatier=Weekly
+|teamfirst=
+|teamsecond=
+|teamthird=
+|teamthird2=
+|team_number=
+|map1=
+|map2=
+|map3=
+|previous=Go4Overwatch/Europe/Weekly/VOGANBOT_EDITION_PREV{{!}}#VOGANBOT_EDITION_PREV
+|next=Go4Overwatch/Europe/Weekly/VOGANBOT_EDITION_NEXT{{!}}#VOGANBOT_EDITION_NEXT
+}}
+
+==Overview==
+'''ESL Go4Overwatch Europe Cup #VOGANBOT_EDITION''' is the VOGANBOT_EDITIONth European installment of ESL Go4 cups.
+
+150 ({{Abbr/EUR}}) winner takes all:
+{{prize pool start |localcurrency=eur |points=go4}}
+{{prize pool slot |place=1 |points=100 |usdprize=VOGANBOT_PRIZE_1 |localprize=150 |tbd |lastvs1=|lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=2 |points=75 |usdprize=0 |tbd |lastvs1=|lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=3 |points=60 |usdprize=0 |tbd |lastvs1=|lastscore1= |lastvsscore1= }}
+{{prize pool slot |place=4 |points=40 |usdprize=0 |tbd |lastvs1=|lastscore1= |lastvsscore1= }}
+{{prize pool end}}
+
+===Format===
+*Single Elimination Bracket
+**Game Mode
+***Bracket: {{Abbr/Bo1}}
+***Quarterfinals: {{Abbr/Bo3}}
+***Finals: {{Abbr/Bo5}}
+**1 Hero Limit
+
+==Top4 Teams==
+{{box|start|padding=2em}}
+{{TeamCard
+|team=
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|image=
+|p1=|p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+|p4=|p4flag=
+|p5=|p5flag=
+|p6=|p6flag=
+}}
+{{box|end|padding=2em}}
+
+==Results==
+Complete bracket [https://play.eslgaming.com/overwatch/europe/overwatch/major/go4overwatch-europe/cup-VOGANBOT_EDITION/rankings/ here]
+
+{{4SETeamBracket
+<!-- SEMIFINALS -->
+|R1D1team= |R1D1score= |R1D1win=
+|R1D2team= |R1D2score= |R1D2win=
+|R1D3team= |R1D3score= |R1D3win=
+|R1D4team= |R1D4score= |R1D4win=
+<!-- FINALS -->
+|R2W1team= |R2W1score= |R2W1win=
+|R2W2team= |R2W2score= |R2W2win=
+<!-- 3RD PLACE (optional) -->
+|R2D1team= |R2D1score= |R2D1win=
+|R2D2team= |R2D2score= |R2D2win=
+}}
+{{-stop-}}
