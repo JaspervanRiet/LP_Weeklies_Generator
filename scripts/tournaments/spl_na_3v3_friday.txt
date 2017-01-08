@@ -1,5 +1,5 @@
-19
-2017-01-06
+20
+2017-01-13
 {{-start-}}
 '''Shift_Pro_League/Weekly/3v3/North_America/VOGANBOT_EDITION'''
 {{DISPLAYTITLE:SPL Weekly - Cup VOGANBOT_EDITION}}<br/>
@@ -29,7 +29,7 @@
 
 ==Prize Pool==
 {{prize pool start }}
-{{prize pool slot|place=1|usdprize=70|tbd |lastvs1=|lastscore1= |lastvsscore1= }}
+{{prize pool slot|place=1|usdprize=70|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
 {{prize pool slot|place=2|usdprize=30|tbd |lastvs1= |lastscore1= |lastvsscore1= }}
 {{prize pool slot|place=3-4|usdprize=0
 |tbd |lastvs1=|lastscore1= |lastvsscore1=

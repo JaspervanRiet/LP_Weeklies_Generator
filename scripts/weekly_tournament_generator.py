@@ -35,7 +35,8 @@ class TournamentType(object):
     GFINITY_EU_MONDAY = 2
     NEXUS_NA_SATURDAY = 3
     SPL_NA_FRIDAY = 4 
-    OVERWATCH_GO4 = 5
+    PRL_NA_MONDAY = 5 
+    OVERWATCH_GO4 = 6
 
 class NoTitle(Exception):
 
@@ -106,6 +107,8 @@ class PageFromFileRobot(Bot):
         elif tournament_type == TournamentType.NEXUS_NA_SATURDAY:
             contents = creator.create_na_tournament(contents)
 	elif tournament_type == TournamentType.SPL_NA_FRIDAY:
+            contents = creator.create_na_tournament(contents)
+	elif tournament_type == TournamentType.PRL_NA_MONDAY:
             contents = creator.create_na_tournament(contents)
         elif tournament_type == TournamentType.OVERWATCH_GO4:
             contents = creator.create_overwatch_go4(contents)
@@ -285,6 +288,7 @@ def get_tournament_type():
             "EU - Gfinity Monday",
             "NA - Nexus Saturday",
             "NA - SPL Friday",
+            "NA - PRL Monday",
             "Overwatch - Go4"]
     user_choice = pywikibot.bot.input_list_choice(
             u"Enter the number of the desired tournament:",
@@ -305,6 +309,8 @@ def get_filename():
         filename += "nexus_na_3v3_saturday.txt"
     elif tournament_type == TournamentType.SPL_NA_FRIDAY:
         filename += "spl_na_3v3_friday.txt"
+    elif tournament_type == TournamentType.PRL_NA_MONDAY:
+        filename += "prl_na_3v3_monday.txt"
     elif tournament_type == TournamentType.OVERWATCH_GO4:
         filename += "Go4Overwatch.txt"
 
