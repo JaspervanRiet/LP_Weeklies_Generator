@@ -1,0 +1,144 @@
+77
+2017-01-15
+'''ESL/Go4RocketLeague/Europe/Weekly/3v3/VOGANBOT_EDITION'''
+{{DISPLAYTITLE:ESL Go4: Europe Weekly 3v3 - Cup VOGANBOT_EDITION}}<br/>
+{{Infobox league
+|liquipediatier=Weekly
+|series=ESL Go4 Europe Weekly Cups
+|name=ESL Go4: Europe Weekly 3v3 - Cup VOGANBOT_EDITION
+|tickername=ESL Go4 EU Weekly VOGANBOT_EDITION
+|shortname=Week VOGANBOT_EDITION EU
+|image=esl.png
+|icon=
+|organizer=ESL
+|sponsor=
+|mode=3v3
+|type=Online
+|country=Europe
+|venue=
+|format=Single-Elimination Bracket  {{Abbr/Bo5}} and  {{Abbr/Bo7}}
+|prizepoolusd=VOGANBOT_TOTAL_PRIZE
+|localcurrency=eur
+|prizepool=150
+|twitch=
+|date=VOGANBOT_DATE_TOURNAMENT
+|bracket=https://play.eslgaming.com/rocketleague/europe/rocketleague/major/go4rocketleague-europe/cup-VOGANBOT_EDITION/rankings/
+|team_number=
+|previous=ESL/Go4RocketLeague/Europe/Weekly/3v3/Cup_VOGANBOT_EDITION_PREV{{!}}Cup VOGANBOT_EDITION_PREV
+|next=ESL/Go4RocketLeague/Europe/Weekly/3v3/Cup_VOGANBOT_EDITION_NEXT{{!}}Cup VOGANBOT_EDITION_NEXT
+}}
+
+==Prize Pool==
+{{prize pool start |localcurrency=eur}}
+{{prize pool slot|place=1|usdprize=VOGANBOT_TOTAL_PRIZE |localprize=|tbd|lastvs1=|lastscore1= |lastvsscore1=}}
+{{prize pool slot|place=2|usdprize=0|tbd|lastvs1=|lastscore1=|lastvsscore1=}}
+{{prize pool slot|place=3|usdprize=0
+|tbd|lastvs1=|lastscore1=|lastvsscore1=}}
+{{prize pool slot|place=4|usdprize=0
+|tbd|lastvs1=|lastscore1=|lastvsscore1=}}
+{{prize pool slot|place=5-8|usdprize=0
+|tbd |lastvs1=|lastscore1= |lastvsscore1=
+|tbd |lastvs2=|lastscore2= |lastvsscore2=
+|tbd |lastvs3=|lastscore3= |lastvsscore3=
+|tbd |lastvs4=|lastscore4=|lastvsscore4=
+ }}
+{{Prize pool end}}
+
+==Participants==
+{{Team card columns start|cols=3}}
+{{box|start|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2=|p2flag=
+|p3=|p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=
+|p1= |p1flag=
+|p2= |p2flag=
+|p3= |p3flag=
+}}
+{{box|end}}
+{{Team card columns end}}
+
+==Results==
+{{8SETeamBracket
+
+<!-- QUARTERFINALS -->
+|R1D1team=|R1D1score= |R1D1win=
+|R1D2team=|R1D2score= |R1D2win=
+
+|R1D3team=|R1D3score= |R1D3win=
+|R1D4team=|R1D4score= |R1D4win=
+
+|R1D5team=|R1D5score= |R1D5win=
+|R1D6team=|R1D6score= |R1D6win=
+
+|R1D7team=|R1D7score= |R1D7win=
+|R1D8team=|R1D8score= |R1D8win=
+
+
+<!-- SEMIFINALS -->
+|R2W1team=|R2W1score= |R2W1win=
+|R2W2team=|R2W2score= |R2W2win=
+
+|R2W3team=|R2W3score= |R2W3win=
+|R2W4team=|R2W4score= |R2W4win=
+
+<!-- FINALS -->
+|R3W1team=|R3W1score=|R3W1win=
+|R3W2team=|R3W2score=|R3W2win=
+
+<!-- 3RD PLACE (optional) -->
+|R3D1team=|R3D1score=|R3D1win=
+|R3D2team=|R3D2score=|R3D2win=
+}}
+
+==References==
+{{Reflist}}
+<br/>
+{{ESL Navbox}}

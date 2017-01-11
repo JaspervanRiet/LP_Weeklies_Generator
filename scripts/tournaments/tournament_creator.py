@@ -59,6 +59,17 @@ class TournamentCreator:
 
         return contents
 
+    def create_europe_esl_sunday(self, contents):
+        contents = self.create_tournament(contents)
+
+        currency_converter = CurrencyRates()
+        eur_exchange_rate = currency_converter.get_rate('EUR', 'USD')
+
+        contents = contents.replace(
+                "VOGANBOT_TOTAL_PRIZE", str(150*eur_exchange_rate))
+
+        return contents
+
     def create_overwatch_go4(self, contents):
         contents = self.create_tournament(contents)
 

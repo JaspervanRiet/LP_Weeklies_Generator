@@ -33,10 +33,11 @@ tournament_date = ""
 class TournamentType(object):
     GFINITY_EU_FRIDAY = 1
     GFINITY_EU_MONDAY = 2
-    NEXUS_NA_SATURDAY = 3
-    SPL_NA_FRIDAY = 4 
-    PRL_NA_MONDAY = 5 
-    OVERWATCH_GO4 = 6
+    ESL_EU_SUNDAY = 3
+    NEXUS_NA_SATURDAY = 4
+    SPL_NA_FRIDAY = 5 
+    PRL_NA_MONDAY = 6 
+    OVERWATCH_GO4 = 11
 
 class NoTitle(Exception):
 
@@ -103,7 +104,9 @@ class PageFromFileRobot(Bot):
         if tournament_type == TournamentType.GFINITY_EU_FRIDAY:
             contents = creator.create_europe_gfinity_friday(contents)
         elif tournament_type == TournamentType.GFINITY_EU_MONDAY:
-            contents = creator.create_europe_gfinity_monday(contents)
+            contents = creator.create_europe_gfinity_friday(contents)
+        elif tournament_type == TournamentType.ESL_EU_SUNDAY:
+            contents = creator.create_europe_esl_sunday(contents)
         elif tournament_type == TournamentType.NEXUS_NA_SATURDAY:
             contents = creator.create_na_tournament(contents)
 	elif tournament_type == TournamentType.SPL_NA_FRIDAY:
@@ -286,6 +289,7 @@ def get_tournament_type():
     list_tournament = [
             "EU - Gfinity Friday",
             "EU - Gfinity Monday",
+            "EU - ESL Sunday",
             "NA - Nexus Saturday",
             "NA - SPL Friday",
             "NA - PRL Monday",
@@ -305,6 +309,8 @@ def get_filename():
         filename += "gfinity_eu_3v3_friday.txt"
     elif tournament_type == TournamentType.GFINITY_EU_MONDAY:
         filename += "gfinity_eu_3v3_monday.txt"
+    elif tournament_type == TournamentType.ESL_EU_SUNDAY:
+        filename += "esl_eu_3v3_sunday.txt"
     elif tournament_type == TournamentType.NEXUS_NA_SATURDAY:
         filename += "nexus_na_3v3_saturday.txt"
     elif tournament_type == TournamentType.SPL_NA_FRIDAY:
